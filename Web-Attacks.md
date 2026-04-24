@@ -1,18 +1,4 @@
----
-tags:
-  - web-attacks
-  - labs
-categories: "[[Labs]]"
----
-```table-of-contents
-```
----
-# 🗣️ TALION SCRIPT: Identity & Incident Investigation
-> "When investigating web or identity alerts, I correlate the logs across both the **SIEM and the VPN**. If an account or gateway is compromised, I’m hunting for **post-authentication anomalies**—like a threat actor compiling payloads or setting up inbox rules to hide their tracks. Once identified, I’ll immediately block the malicious IPs at the edge firewall."
-
----
-
-## 🔴 SOC342: CVE‑2025‑53770 SharePoint RCE
+🔴 SOC342: CVE‑2025‑53770 SharePoint RCE
 **Verdict:** True Positive
 
 ### 1. Triage & Analysis
