@@ -33,11 +33,3 @@
 * **Source IP:** `203.160.68.12`
 * **Target IP:** `172.16.20.146`
 * **Payload:** `../../etc/passwd`
-
----
-
-# 🗣️ TALION SCRIPT: Proactive Threat Hunting
-> "When I have downtime from the alert queue, I shift to proactive threat hunting to reduce our MTTR for undetected threats. My primary focus is tracking **Windows Event ID 4625**—which logs failed logons. By building Splunk search queries around this Event ID, I can spot active password spraying or brute-force campaigns hitting the network before an alert even fires."
-
-# 🚨 EMERGENCY PIVOT SCRIPT (If you don't know the answer)
-> "That’s a great question. I haven't encountered that specific scenario yet, so I would consult our **internal knowledge base** first. If I couldn't verify the activity within my triage SLA, I would gather the relevant logs, document my findings clearly in the ticket, and **escalate to Tier 2 to preserve the SLA**."
