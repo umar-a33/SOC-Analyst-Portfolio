@@ -1,4 +1,4 @@
-🔴 SOC342: CVE‑2025‑53770 SharePoint RCE
+## 🔴 SOC342: CVE‑2025‑53770 SharePoint RCE
 **Verdict:** True Positive
 
 ### 1. Triage & Analysis
